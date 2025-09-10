@@ -109,5 +109,5 @@ def main():
     # Run the bot (blocking). PTB will handle signals and shutdown cleanly.
     app.run_polling()
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
